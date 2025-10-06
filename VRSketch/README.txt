@@ -4,6 +4,10 @@ It was tested with Revit 2022 and partially 2023.
 For PC VR, you need to install a binary of VR Sketch itself.  For usage on a standalone
 Quest or Pico Neo device, you simply run VR Sketch on the Quest/PicoNeo headset.
 
+These instructions assume that you already have a general idea about how to compile
+a Revit plugin written in C#; use Google to find more about that.
+
+
 Instructions:
 
 * starting from the sources, you need first to build the solution with Visual Studio.
